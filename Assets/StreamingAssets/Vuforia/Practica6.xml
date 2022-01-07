@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="plant" size="0.080000 0.081188" />
-    <ImageTarget name="water" size="0.080000 0.081188" />
-    <ImageTarget name="fire" size="0.080000 0.081188" />
+    <ImageTarget name="water2" size="0.080000 0.081188" />
+    <ImageTarget name="water1" size="0.080000 0.081188" />
+    <ImageTarget name="plant2" size="0.080000 0.081188" />
+    <ImageTarget name="plant1" size="0.080000 0.081188" />
+    <ImageTarget name="fire2" size="0.080000 0.081188" />
+    <ImageTarget name="fire1" size="0.080000 0.081188" />
   </Tracking>
 </QCARConfig>
